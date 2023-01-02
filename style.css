@@ -1,0 +1,30 @@
+/* .heading{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+} */
+
+
+.card{
+    margin: 10px 0px 10px 0px;
+}
+.card-text{
+    margin-top: 10px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 300px;
+    height: 200px; 
+}
+.card-body{
+    background-color: rgb(224, 207, 207);
+}
+h4{
+    text-align: center;
+}
+.reports{
+    background-color: red;
+    border:2px solid black;
+   
+}
